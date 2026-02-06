@@ -8,8 +8,7 @@ Designed for **law students, startups, HR teams, and legal professionals**, this
 ---
 
 ## 🌐 Live Demo
-👉 **Public App**: https://contract-insight-ai.streamlit.app  
-*(Replace with your actual Streamlit URL if different)*
+👉 **Public App**: https://contract-insight-ai-6w9kpc8eqf8fjxzuqdulz2.streamlit.app/
 
 ---
 
