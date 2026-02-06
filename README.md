@@ -52,6 +52,48 @@ Designed for **law students, startups, HR teams, and legal professionals**, this
 | Deployment | Streamlit Cloud |
 
 ---
+## ☁️ Deployment (Streamlit Cloud)
 
-## 📁 Project Structure
+1.Push project to GitHub
+2.Go to https://share.streamlit.io
+3.Select repository & app.py
+4.Add GEMINI_API_KEY in Secrets
+5.Deploy 🚀
 
+--- 
+## 📄 Sample Use Cases
+
+🔍 Employment contract review
+🏢 Startup legal agreement validation
+👩‍⚖️ Law student contract analysis
+🧾 HR policy audits and Hindi legal document review
+
+---
+## 🔐 Security & Privacy
+
+No files are permanently stored
+API keys handled securely via secrets
+Uploaded documents processed in-session only
+
+---
+## 📌 Future Enhancements
+
+🔹 Clause comparison between contracts
+🔹 Multi-language support
+🔹 User authentication
+🔹 Cloud storage for reports
+🔹 Clause risk heatmaps
+
+---
+## 🏆 Why This Project Matters
+
+Manual contract review is slow, error-prone, and expensive.
+Contract Insight AI brings automation, accuracy, and accessibility to legal analysis using modern AI.
+
+---
+## ⭐ Support
+
+If you like this project:
+⭐ Star the repository
+🍴 Fork it
+🧠 Suggest improvements
