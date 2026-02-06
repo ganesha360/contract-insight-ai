@@ -6,3 +6,4 @@ plotly
 google-generativeai
 python-docx
 pdfplumber
+fpdf
